@@ -13,21 +13,21 @@
       "username": "admin",
       "email": "admin@gmail.com",
       "password": "123456",
-      "rol":"admin"
+      "role":"admin"
     },
     {
       "id": 2,
       "username": "user",
       "email": "user@gmail.com",
       "password": "123456",
-      "rol":"user"
+      "role":"user"
     },
     {
       "id": 3,
       "username": "sysadmin",
       "email": "sysadmin@gmail.com",
       "password": "123456",
-      "rol":"sysadmin"
+      "role":"sysadmin"
     }
   ],
   "tasks": [
